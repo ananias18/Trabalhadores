@@ -1,0 +1,15 @@
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\bin\Debug\net6.0\Aula10.exe
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\bin\Debug\net6.0\Aula10.deps.json
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\bin\Debug\net6.0\Aula10.runtimeconfig.json
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\bin\Debug\net6.0\Aula10.dll
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\bin\Debug\net6.0\Aula10.pdb
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\obj\Debug\net6.0\Aula10.csproj.AssemblyReference.cache
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\obj\Debug\net6.0\Aula10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\obj\Debug\net6.0\Aula10.AssemblyInfoInputs.cache
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\obj\Debug\net6.0\Aula10.AssemblyInfo.cs
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\obj\Debug\net6.0\Aula10.csproj.CoreCompileInputs.cache
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\obj\Debug\net6.0\Aula10.dll
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\obj\Debug\net6.0\refint\Aula10.dll
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\obj\Debug\net6.0\Aula10.pdb
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\obj\Debug\net6.0\Aula10.genruntimeconfig.cache
+C:\Users\flora\Documents\Desenvolvimento\Aula10\Aula10\obj\Debug\net6.0\ref\Aula10.dll
